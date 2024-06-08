@@ -21,48 +21,33 @@ Welcome to the Travel Website Landing Page repository! This project is a visuall
 <a href=""  title="Travel Website Landing Page">Travel Website Landing Page</a>
 
 
-## How to Use
+## How to use
 
-To use or customize this project, follow these steps:
-
-**1.Clone the repository:**
-
-git clone https://github.com/NikhilVerma09/travel-website.git
-
-**2.Navigate to the project directory:**
-
-gitclone cd travel-website
-
-**3.Open index.html in your web browser:**
+**1.Open index.html in your web browser:**
 
 Double-click the index.html file or right-click and select "Open with" to view the landing page.
 
-**4.Customize the content:**
+**2.Customize the content:**
 
 * Modify the HTML files to change text, images, and links.
   
 * Adjust the CSS files to alter the styling and layout according to your preferences.
   
-**5.Deploy the site:**
+**3.Deploy the site:**
 
-You can deploy the landing page on any static site hosting service like GitHub Pages, Netlify, or Vercel.
+You can deploy the landing page on any static site hosting service like GitHub Pages, Netlify, or Vercel.Netlify is recommended for its ease of use. Simply drag and drop your project folder into Netlify for automatic deployment.
 
-## Usage
-
-*  **Local Development:** Run the website locally by opening index.html in your browser to see changes in real-time.
-  
-* **Deployment:** Deploy the site using a hosting service. Netlify is recommended for its ease of use. Simply drag and drop your project folder into Netlify for automatic deployment.
 
   
-##Acknowledgements
+## Acknowledgements
 
 This project was made possible with the help of the following resources:
 
 * <a href="https://unsplash.com/"  title="Unsplash">Unsplash</a>  for providing beautiful, high-quality images used in the project.
   
-* <a href=""  title="Google Fonts">Google Fonts</a> for offering a wide range of fonts that enhance the visual appeal of the site.
+* <a href="https://fonts.google.com/"  title="Google Fonts">Google Fonts</a> for offering a wide range of fonts that enhance the visual appeal of the site.
   
-* <a href=""  title="Netlify">Netlify</a> for providing a seamless and user-friendly platform to deploy static websites.
+* <a href="https://www.netlify.com/"  title="Netlify">Netlify</a> for providing a seamless and user-friendly platform to deploy static websites.
   
   
 ## Contributing
@@ -80,6 +65,7 @@ If you would like to contribute to this project, please follow these steps:
 5.Push to the branch (**git push origin feature-branch**).
 
 6.Open a Pull Request.
+
 
 
 ### We welcome your feedback and contributions. Thank you for visiting our Travel Website Landing Page repository! Enjoy exploring and happy coding!!!
